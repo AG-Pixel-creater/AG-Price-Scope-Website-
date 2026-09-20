@@ -8,7 +8,7 @@ Official Urdu-first product website for **AG Price Scope**, a Windows desktop ap
 - Persisted dark and light themes with RTL/LTR layout switching
 - Responsive product, process, features, report, installation, and documentation sections
 - Clearly labeled product UI mockup with no invented market prices
-- Honest download state that does not invent an installer or release URL
+- Direct Windows installer download from the v0.0.1 GitHub release
 - Confirmed repository link: [AG-Pixel-creater/AG-Price-Scope-Website-](https://github.com/AG-Pixel-creater/AG-Price-Scope-Website-)
 
 ## Tech Stack
